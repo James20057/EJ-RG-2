@@ -2,7 +2,7 @@
 Este es un ejemplo de repositorio creado desde GitHub
 # Mi proyecto
 Este es un proyecto de prueba
-Autor: Santiago Pineda
+Autor: James solarte
 ## Descripcion
 Aqui iria la descripcion del proyecto
 ## Comandos
